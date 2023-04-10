@@ -13776,21 +13776,21 @@ a.icon {
 	color: #495057;
 }
 .about-img{
-	background: url('https://b.btc36.com/assets/images/about.jpg');
+	background: url('https://uatswin.github.io/uatfinanceassets/images/about.jpg');
 	background-size: cover;
 	background-position: center;
 	position:relative;
 }
 .login-img {
-	background: url('https://b.btc36.com/assets/images/login.jpg');
+	background: url('https://uatswin.github.io/uatfinanceassets/images/login.jpg');
 	background-size: cover;
 }
 .construction-img {
-	background: url('https://b.btc36.com/assets/images/construction.jpg');
+	background: url('https://uatswin.github.io/uatfinanceassets/images/construction.jpg');
 	background-size: cover;
 }
 .card-blog-overlay {
-	background: url('https://b.btc36.com/assets/images/thumbnails/thumb2.jpg');
+	background: url('https://uatswin.github.io/uatfinanceassets/images/thumbnails/thumb2.jpg');
 	background-size: cover;
 	position:relative;
 }
@@ -13806,7 +13806,7 @@ a.icon {
 	border-radius:7px;
 }
 .card-blog-overlay1 {
-	background: url('https://b.btc36.com/assets/images/thumbnails/thumb3.jpg');
+	background: url('https://uatswin.github.io/uatfinanceassets/images/thumbnails/thumb3.jpg');
 	background-size: cover;
 }
 .card-blog-overlay2 {
@@ -19168,8 +19168,8 @@ svg {
 }
 @font-face {
 	font-family: 'Glyphicons Halflings';
-	src: url('https://b.btc36.com/assets/fonts/glyphicons-halflings-regular.eot');
-	src: url('https://b.btc36.com/assets/fonts/glyphicons-halflings-regular.eot?') format('embedded-opentype'), url('https://b.btc36.com/assets/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('https://b.btc36.com/assets/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://b.btc36.com/assets/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://b.btc36.com/assets/fonts/glyphicons-halflings-regular.svg') format('svg');
+	src: url('https://uatswin.github.io/uatfinanceassets/fonts/glyphicons-halflings-regular.eot');
+	src: url('https://uatswin.github.io/uatfinanceassets/fonts/glyphicons-halflings-regular.eot?') format('embedded-opentype'), url('https://uatswin.github.io/uatfinanceassets/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('https://uatswin.github.io/uatfinanceassets/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://uatswin.github.io/uatfinanceassets/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://uatswin.github.io/uatfinanceassets/fonts/glyphicons-halflings-regular.svg') format('svg');
 }
 .glyphicon {
 	position: relative;
@@ -20550,7 +20550,7 @@ svg {
 	margin-top:0.5rem
 }
 .card-1{
-	background-image: url('https://b.btc36.com/assets/images/photos/card.png');
+	background-image: url('https://uatswin.github.io/uatfinanceassets/images/photos/card.png');
    background-repeat: no-repeat;
    background-position: right;
 }
@@ -20604,7 +20604,7 @@ svg {
 	content: '';
     display: block;
     position: absolute;
-    background:url('https://b.btc36.com/assets/images/purple_transparent.png');
+    background:url('https://uatswin.github.io/uatfinanceassets/images/purple_transparent.png');
 	background-repeat:repeat;
     width: 100%;
     height: 100%;
